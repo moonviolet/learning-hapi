@@ -1,0 +1,14 @@
+{
+  "name": "learning-hapi",
+  "version": "1.0.0",
+  "description": "## Why hapi?",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
