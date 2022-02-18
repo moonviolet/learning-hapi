@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "## Why hapi?",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
   "scripts": {
-    "start": "node src/index.js"
+    "start": "nodemon ./src/index.js"
   },
   "keywords": [],
   "author": "",
